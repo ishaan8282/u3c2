@@ -1,0 +1,18 @@
+#menu{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 5%;
+    text-align: center;
+    
+}
+.coffee{
+    border: 1px solid red;
+}
+#navbar{
+    display: flex;
+    gap:5%;
+    margin-left: 70%;
+    border: 1px solid red;
+    padding: 10px;
+    box-sizing: border-box;
+}
